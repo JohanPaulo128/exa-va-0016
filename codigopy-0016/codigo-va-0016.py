@@ -1,4 +1,4 @@
-# Eliseo Nava NC= 0777
+# Johan Paulo Aros Reveles
 
 import cv2
 from pathlib import Path
